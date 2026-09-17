@@ -1,0 +1,16 @@
+{
+  "name": "detox",
+  "version": "2.0.0",
+  "description": "Detox your writing. Removes 20+ patterns of AI slop, preserves personal voice, and provides structured diagnostics.",
+  "author": {
+    "name": "Pratham Sharma (based on Peter Yang)"
+  },
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "editing",
+    "slop-prevention",
+    "voice-preservation",
+    "detox"
+  ]
+}
