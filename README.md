@@ -120,12 +120,6 @@ Detox was evolved from the original *No AI Slop* project by Pratham Sharma with 
 
 Detox is also available as a plugin in ChatGPT, Codex, and Google Antigravity.
 
-## Want more great AI skills?
-
-Check out [Behind the Craft](https://behindthecraft.com), my personal AI system with over a dozen other quality skills and courses.
-
-Subscribe to my [YouTube channel](https://www.youtube.com/@PeterYangYT?sub_confirmation=1) and [newsletter](https://creatoreconomy.so) for practical AI tutorials and interviews.
-
 ## Credits & Attribution
 
 - **Original Creator**: Peter Yang ([Behind the Craft](https://behindthecraft.com), [GitHub](https://github.com/petergyang/no-ai-slop))
